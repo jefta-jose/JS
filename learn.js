@@ -1,4 +1,4 @@
-What makes Javascript unique from other languaes ?
+WHAT MAKES JAVASCRIPT UNIQUE
 
 Javascript runs natively on the browser
 
@@ -142,4 +142,67 @@ First-Class Functions
 
         passAboveFunction()
 
-        
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+WHAT ARE DATA TYPES
+    In programming, a data type is an attribute associated with a piece of data that tells a computer system how to interpret its value. 
+    It defines the kind of value a variable can hold and the operations that can be performed on it without causing errors
+
+
+
+JVASCRIPT DATA TYPES
+    JavaScript data types are categorized into two parts i.e. primitive and non-primitive types.
+
+    Primitive data types are also known as in-built data types provided by JavaScript.
+    Numbers
+    Strings
+    Boolean
+    Symbol
+    Undefined
+    Null
+    BigInt
+
+    Non-Premitive Data Type: The data types that are derived from primitive data types 
+    Objects
+    Functions
+    Arrays
+
+
+
+
+STRINGS PLUS NUMBERS
+    Javascript runs from left to right
+    so "5"+2+3 = "523"
+    but 2+3+"5" = "55"
+    also "2"+"3"= "23"
+
+
+
+
+
+NaN function
+    this function returns true if the passed argument is not a number if 
+            NaN("jefta") = true
+    else it returns false if the argument passed is a number 
+            NaN(2) = false
+
+
+
+Negative Infinity
+    means the lowest value , no other number is lesser than this value
+
+    
+
+Which company developed JavaScript?
+    Netscape developed JavaScript and was created by Brenden Eich in the year of 1995.
+
+
+
+
+What are undeclared and undefined variables?
+    Undefined: It occurs when a variable is declared but not assign any value.
+
+    Undeclared: It occurs when we try to access any variable which is not initialize or declare earlier 
+
+
+11
+
